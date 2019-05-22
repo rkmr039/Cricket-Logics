@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "576029669648",
+    "firebase_url": "https://cricket-logics.firebaseio.com",
+    "project_id": "cricket-logics",
+    "storage_bucket": "cricket-logics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576029669648:android:dd5d5e9727544eae",
+        "android_client_info": {
+          "package_name": "com.ojasxlabs.cricketlogics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576029669648-dufi0s3bq4j7dpv1q7ogvq42l247qnt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASID970ZgmCERl5xVnAGKQo-ooT3VlJJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
